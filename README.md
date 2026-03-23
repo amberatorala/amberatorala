@@ -10,18 +10,18 @@
 
 ## `whoami`
 
-Amber Burch is an **Agentic AI Architect** and the founder of [Orala AI Studio](https://github.com/amberatorala/orala) — a consultancy that designs and deploys autonomous AI systems for businesses ready to operate at a different level.
+Amber Burch is an **Agentic AI Architect** and the founder of [Orala AI Studio](https://github.com/amberatorala/orala), a consultancy that designs and deploys autonomous AI systems for businesses ready to operate at a different level.
 
-She architects multi-agent workflows that don't just automate tasks — they reason, adapt, and execute end-to-end with minimal human intervention. Her work sits at the intersection of AI strategy, systems design, and business operations, translating complex automation possibilities into clear commercial outcomes for clients.
+She architects multi-agent workflows that don't just automate tasks. They reason, adapt, and execute end-to-end with minimal human intervention. Her work sits at the intersection of AI strategy, systems design, and business operations, translating complex automation possibilities into clear commercial outcomes for clients.
 
-Alongside Orala, Amber runs a design studio and works as a fractional COO — embedding AI-native operating systems into scaling businesses from the inside.
+Alongside Orala, Amber runs a design studio and works as a fractional COO, embedding AI-native operating systems into scaling businesses from the inside.
 
-> *She believes the most powerful competitive advantage right now isn't having AI tools — it's knowing how to architect systems around them.*
+> *She believes the most powerful competitive advantage right now isn't having AI tools. It's knowing how to architect systems around them.*
 
 **Currently building:**
-- 🤖 [**Orala AI Studio**](https://github.com/amberatorala/orala) — autonomous AI systems for businesses
-- 🎨 **Design Studio** — brand identity and digital experiences
-- 🧩 **Fractional COO** — embedding AI-native ops into scaling companies
+- 🤖 [**Orala AI Studio**](https://github.com/amberatorala/orala): autonomous AI systems for businesses
+- 🎨 **Design Studio**: brand identity and digital experiences
+- 🧩 **Fractional COO**: embedding AI-native ops into scaling companies
 
 ---
 
@@ -29,16 +29,16 @@ Alongside Orala, Amber runs a design studio and works as a fractional COO — em
 
 | Discipline | What it means in practice |
 |---|---|
-| 🤖 **Agentic Systems Design** | Autonomous agents that chain reasoning, decision-making, and action across multi-step workflows — from a single trigger to a fully resolved output |
-| 🕸️ **Multi-Agent Orchestration** | Swarms of specialised agents working in parallel, handing off context, and self-verifying — reducing human checkpoints at every stage |
-| ⚙️ **Workflow Automation Architecture** | Mapping complex business processes to automated systems using n8n, Make.com, and custom API integrations — including edge cases, not just ideal paths |
+| 🤖 **Agentic Systems Design** | Autonomous agents that chain reasoning, decision-making, and action across multi-step workflows, from a single trigger to a fully resolved output |
+| 🕸️ **Multi-Agent Orchestration** | Swarms of specialised agents working in parallel, handing off context, and self-verifying to reduce human checkpoints at every stage |
+| ⚙️ **Workflow Automation Architecture** | Mapping complex business processes to automated systems using n8n, Make.com, and custom API integrations, including edge cases, not just ideal paths |
 | 🧩 **AI Tool Integration & Stack Design** | Selecting, connecting, and configuring the right combination of LLMs, data sources, and platforms to build coherent, maintainable systems |
 | 🎯 **Prompt Engineering & LLM Orchestration** | Designing instruction sets, system prompts, and evaluation loops for Claude, GPT-4o, and open-source models to produce reliable, production-grade outputs |
-| 🧬 **RAG & Knowledge Systems** | Retrieval-augmented generation pipelines that ground AI outputs in proprietary business knowledge — reducing hallucination, increasing relevance |
+| 🧬 **RAG & Knowledge Systems** | Retrieval-augmented generation pipelines that ground AI outputs in proprietary business knowledge, reducing hallucination and increasing relevance |
 | 📊 **Business Process Automation** | Translating manual operations into autonomous pipelines: lead generation, onboarding, research, reporting, content distribution |
 | 🕷️ **Web Scraping & Data Enrichment** | Designing data acquisition pipelines using Apify and custom scrapers to feed enrichment workflows with real-time external data |
-| 🧭 **AI Strategy & Systems Consulting** | Advising founders and operators on where AI creates the most leverage — and building the roadmap without over-engineering |
-| 🏗️ **Fractional COO — AI-Native Operations** | Embedding AI operating systems into growing businesses: SOPs, automated reporting, and replacing recurring manual work with autonomous infrastructure |
+| 🧭 **AI Strategy & Systems Consulting** | Advising founders and operators on where AI creates the most leverage, and building the roadmap to get there without over-engineering |
+| 🏗️ **Fractional COO, AI-Native Operations** | Embedding AI operating systems into growing businesses: SOPs, automated reporting, and replacing recurring manual work with autonomous infrastructure |
 
 ---
 
@@ -91,11 +91,11 @@ Alongside Orala, Amber runs a design studio and works as a fractional COO — em
 ```
 
 **Specialisations:**
-- 🔁 **Autonomous Loop Design** — agents that self-correct and iterate without human intervention
-- 🕸️ **Multi-Agent Orchestration** — parallel agent swarms with specialised roles
-- 🧬 **RAG Pipelines** — retrieval-augmented generation for knowledge-grounded agents
-- 🔌 **API Integration Architecture** — connecting any system to any other system
-- 📊 **Business Process Automation** — mapping human workflows to autonomous systems
+- 🔁 **Autonomous Loop Design**: agents that self-correct and iterate without human intervention
+- 🕸️ **Multi-Agent Orchestration**: parallel agent swarms with specialised roles
+- 🧬 **RAG Pipelines**: retrieval-augmented generation for knowledge-grounded agents
+- 🔌 **API Integration Architecture**: connecting any system to any other system
+- 📊 **Business Process Automation**: mapping human workflows to autonomous systems
 
 ---
 
@@ -106,7 +106,7 @@ current_stack = {
     "building":    ["n8n agentic workflows", "Claude Code skills", "Apify scrapers"],
     "learning":    ["DeFAI (DeFi + AI)", "multi-agent frameworks", "MCP servers"],
     "shipping":    ["Orala client automations", "AI automation blueprints"],
-    "obsessed_with": "Karpathy's AutoResearch — self-improving AI loops"
+    "obsessed_with": "Karpathy's AutoResearch: self-improving AI loops"
 }
 ```
 
