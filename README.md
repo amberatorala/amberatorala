@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amber%20Burch&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agentic%20Architect%20%E2%80%A2%20Automation%20Studio%20Founder%20%E2%80%A2%20Fractional%20COO&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amber%20Burch&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20AI%20Architect%20%E2%80%A2%20AI%20Creative%20Director%20%E2%80%A2%20Founder%20of%20Orala&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+agents+that+replace+entire+workflows.;Designing+systems+that+think%2C+decide+and+execute.;Turning+automation+into+a+competitive+advantage.;Founder+of+Orala+AI+Studio.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+agents+that+replace+entire+workflows.;Designing+systems+that+think%2C+decide+and+execute.;Turning+automation+into+a+competitive+advantage.;Founder+of+Orala.)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,18 @@
 
 ## `whoami`
 
-Amber Burch is an **Agentic AI Architect** and the founder of [Orala AI Studio](https://github.com/amberatorala/orala), a consultancy that designs and deploys autonomous AI systems for businesses ready to operate at a different level.
+Amber Burch is an **Agentic AI Architect and AI Creative Director**, and the founder of [Orala](https://github.com/amberatorala/orala).
 
-She architects multi-agent workflows that don't just automate tasks. They reason, adapt, and execute end-to-end with minimal human intervention. Her work sits at the intersection of AI strategy, systems design, and business operations, translating complex automation possibilities into clear commercial outcomes for clients.
+Orala is an AI studio that operates across the full stack of modern creative and technical work. She architects autonomous AI systems that don't just automate tasks — they reason, adapt, and execute end-to-end with minimal human intervention. She brings the same level of systems thinking to creative direction, design, and content as she does to AI architecture.
 
-Alongside Orala, Amber runs a design studio and works as a fractional COO, embedding AI-native operating systems into scaling businesses from the inside.
+> *The most powerful competitive advantage right now isn't having AI tools. It's knowing how to architect systems around them.*
 
-> *She believes the most powerful competitive advantage right now isn't having AI tools. It's knowing how to architect systems around them.*
-
-**Currently building:**
-- 🤖 [**Orala AI Studio**](https://github.com/amberatorala/orala): autonomous AI systems for businesses
-- 🎨 **Design Studio**: brand identity and digital experiences
-- 🧩 **Fractional COO**: embedding AI-native ops into scaling companies
+**What Orala does:**
+- 🤖 **AI Automation Architecture** — multi-agent workflows, agentic systems, n8n pipelines
+- 🎨 **Creative Direction** — brand identity, visual strategy, and creative systems
+- ✍️ **Content Creation** — AI-native content pipelines and production
+- 🖥️ **Design** — digital and brand experiences
+- 🔌 **Development** — no-code/low-code build, web, and product delivery
 
 ---
 
@@ -35,10 +35,10 @@ Alongside Orala, Amber runs a design studio and works as a fractional COO, embed
 | 🧩 **AI Tool Integration & Stack Design** | Selecting, connecting, and configuring the right combination of LLMs, data sources, and platforms to build coherent, maintainable systems |
 | 🎯 **Prompt Engineering & LLM Orchestration** | Designing instruction sets, system prompts, and evaluation loops for Claude, GPT-4o, and open-source models to produce reliable, production-grade outputs |
 | 🧬 **RAG & Knowledge Systems** | Retrieval-augmented generation pipelines that ground AI outputs in proprietary business knowledge, reducing hallucination and increasing relevance |
+| 🎨 **AI Creative Direction** | Leading creative strategy and visual identity through an AI-native lens — using generative tools not as shortcuts but as a core part of the creative process |
 | 📊 **Business Process Automation** | Translating manual operations into autonomous pipelines: lead generation, onboarding, research, reporting, content distribution |
 | 🕷️ **Web Scraping & Data Enrichment** | Designing data acquisition pipelines using Apify and custom scrapers to feed enrichment workflows with real-time external data |
 | 🧭 **AI Strategy & Systems Consulting** | Advising founders and operators on where AI creates the most leverage, and building the roadmap to get there without over-engineering |
-| 🏗️ **Fractional COO, AI-Native Operations** | Embedding AI operating systems into growing businesses: SOPs, automated reporting, and replacing recurring manual work with autonomous infrastructure |
 
 ---
 
@@ -119,6 +119,7 @@ current_stack = {
 | 🎯 [AI Lead Gen & Enrichment Pipeline](https://htmlpreview.github.io/?https://gist.githubusercontent.com/amberatorala/db6bb3938efdb0d91de12e6605c05577/raw/lead-gen-pipeline.html) | n8n · Apollo · Apify · Claude | Apollo → LinkedIn enrich → AI score → CRM + personalised outreach |
 | ♻️ [Content Repurposing Factory](https://htmlpreview.github.io/?https://gist.githubusercontent.com/amberatorala/dc205c2cf34d8439d29a5f332da58a75/raw/content-repurposing-factory.html) | n8n · Claude Sonnet · Buffer | 1 video → 5 platforms, fully automated |
 | 🔬 [AI Deep Research Agent](https://htmlpreview.github.io/?https://gist.githubusercontent.com/amberatorala/b48306caafaf94d62418faf541db069b/raw/deep-research-agent.html) | n8n · Perplexity · Claude | Multi-source research → verified structured report |
+| 🏆 [The Almighty Sales Machine](https://htmlpreview.github.io/?https://gist.githubusercontent.com/amberatorala/bad5072a4b5893e43f71305a384ae63f/raw/almighty-sales-machine.html) | n8n · Attio · Instantly.ai · Claude | Full-funnel sales automation from cold prospect to closed deal |
 
 ---
 
@@ -143,7 +144,7 @@ current_stack = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Orala_AI_Studio-orala--ai.com-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://orala-ai.com)
+[![Website](https://img.shields.io/badge/Orala-orala--ai.com-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://orala-ai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amber_Burch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/orala-ai/)
 [![Email](https://img.shields.io/badge/Email-amber%40orala--ai.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amber@orala-ai.com)
 
