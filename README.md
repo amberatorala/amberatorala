@@ -10,16 +10,39 @@
 
 ## `whoami`
 
-I design and build **agentic AI systems** — autonomous workflows that don't just automate tasks, they reason, decide, and execute at scale. I work at the intersection of AI architecture, no-code/low-code tooling, and business operations.
+Amber Burch is an **Agentic AI Architect** and the founder of [Orala AI Studio](https://github.com/amberatorala/orala) — a consultancy that designs and deploys autonomous AI systems for businesses ready to operate at a different level.
+
+She architects multi-agent workflows that don't just automate tasks — they reason, adapt, and execute end-to-end with minimal human intervention. Her work sits at the intersection of AI strategy, systems design, and business operations, translating complex automation possibilities into clear commercial outcomes for clients.
+
+Alongside Orala, Amber runs a design studio and works as a fractional COO — embedding AI-native operating systems into scaling businesses from the inside.
+
+> *She believes the most powerful competitive advantage right now isn't having AI tools — it's knowing how to architect systems around them.*
 
 **Currently building:**
-- 🤖 [**Orala**](https://github.com/amberatorala/orala) — AI automation studio delivering agentic systems to businesses
+- 🤖 [**Orala AI Studio**](https://github.com/amberatorala/orala) — autonomous AI systems for businesses
 - 🎨 **Design Studio** — brand identity and digital experiences
-- 🧩 **Fractional COO** — embedding AI ops into scaling businesses
+- 🧩 **Fractional COO** — embedding AI-native ops into scaling companies
 
 ---
 
-## `tech_stack`
+## `skills`
+
+| Discipline | What it means in practice |
+|---|---|
+| 🤖 **Agentic Systems Design** | Autonomous agents that chain reasoning, decision-making, and action across multi-step workflows — from a single trigger to a fully resolved output |
+| 🕸️ **Multi-Agent Orchestration** | Swarms of specialised agents working in parallel, handing off context, and self-verifying — reducing human checkpoints at every stage |
+| ⚙️ **Workflow Automation Architecture** | Mapping complex business processes to automated systems using n8n, Make.com, and custom API integrations — including edge cases, not just ideal paths |
+| 🧩 **AI Tool Integration & Stack Design** | Selecting, connecting, and configuring the right combination of LLMs, data sources, and platforms to build coherent, maintainable systems |
+| 🎯 **Prompt Engineering & LLM Orchestration** | Designing instruction sets, system prompts, and evaluation loops for Claude, GPT-4o, and open-source models to produce reliable, production-grade outputs |
+| 🧬 **RAG & Knowledge Systems** | Retrieval-augmented generation pipelines that ground AI outputs in proprietary business knowledge — reducing hallucination, increasing relevance |
+| 📊 **Business Process Automation** | Translating manual operations into autonomous pipelines: lead generation, onboarding, research, reporting, content distribution |
+| 🕷️ **Web Scraping & Data Enrichment** | Designing data acquisition pipelines using Apify and custom scrapers to feed enrichment workflows with real-time external data |
+| 🧭 **AI Strategy & Systems Consulting** | Advising founders and operators on where AI creates the most leverage — and building the roadmap without over-engineering |
+| 🏗️ **Fractional COO — AI-Native Operations** | Embedding AI operating systems into growing businesses: SOPs, automated reporting, and replacing recurring manual work with autonomous infrastructure |
+
+---
+
+## `tools`
 
 ### 🧠 AI & Agents
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
@@ -35,14 +58,7 @@ I design and build **agentic AI systems** — autonomous workflows that don't ju
 ![Apify](https://img.shields.io/badge/Apify-00B287?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-REST_APIs-0EA5E9?style=flat-square)
 
-### 💻 Code & Infra
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🗄️ Data & Databases
+### 🗄️ Data & Knowledge
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
